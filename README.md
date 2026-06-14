@@ -52,7 +52,7 @@ ITSupportSOPs/
 │   ├── check-mailbox-size.md
 │   ├── shared-mailbox-access.md
 └── README.md
-``
+```
 
 ---
 
