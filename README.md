@@ -7,9 +7,6 @@ This repository demonstrates real-world troubleshooting, documentation, and ITIL
 ## 📁 Repository Structure
 
 ITSupportSOPs/
-
-'```text
-ITSupportSOPs/
 ├── account-management/
 │   ├── reset-password.md
 │   ├── unlock-account.md
@@ -52,7 +49,6 @@ ITSupportSOPs/
 │   ├── check-mailbox-size.md
 │   ├── shared-mailbox-access.md
 └── README.md
-```
 
 ---
 
