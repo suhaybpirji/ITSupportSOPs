@@ -7,7 +7,7 @@ This repository demonstrates real-world troubleshooting, documentation, and ITIL
 ## 📁 Repository Structure
 
 ITSupportSOPs/
-│
+
 ├── account-management/                 # User account tasks
 │   ├── reset-password.md
 │   ├── unlock-account.md
