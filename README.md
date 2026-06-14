@@ -6,7 +6,6 @@ This repository demonstrates real-world troubleshooting, documentation, and ITIL
 
 ## 📁 Repository Structure
 
-```plaintext
 ITSupportSOPs/
 │
 ├── account-management/                 # User account tasks
