@@ -8,57 +8,52 @@ This repository demonstrates real-world troubleshooting, documentation, and ITIL
 
 ITSupportSOPs/
 
-''' text
-├── account-management/                 # User account tasks
+'```text
+ITSupportSOPs/
+├── account-management/
 │   ├── reset-password.md
 │   ├── unlock-account.md
 │   ├── create-new-user.md
 │   ├── disable-user-offboarding.md
-│   └── assign-m365-license.md
-│
-├── active-directory/                   # AD troubleshooting & admin
+│   ├── assign-m365-license.md
+├── active-directory/
 │   ├── join-pc-to-domain.md
 │   ├── troubleshoot-domain-join.md
 │   ├── check-ad-replication.md
 │   ├── gpo-troubleshooting.md
-│   └── find-locked-out-users.md
-│
-├── networking/                          # Network troubleshooting
+│   ├── find-locked-out-users.md
+├── networking/
 │   ├── troubleshoot-dns.md
 │   ├── troubleshoot-vpn.md
 │   ├── troubleshoot-wifi.md
 │   ├── map-network-drive.md
-│   └── printer-offline.md
-│
-├── windows-client/                      # Windows desktop support
+│   ├── printer-offline.md
+├── windows-client/
 │   ├── clear-temp-files.md
 │   ├── fix-slow-pc.md
 │   ├── troubleshoot-outlook.md
 │   ├── troubleshoot-teams.md
-│   └── windows-updates.md
-│
-├── servers/                             # Windows Server tasks
+│   ├── windows-updates.md
+├── servers/
 │   ├── restart-service.md
 │   ├── check-event-logs.md
 │   ├── check-disk-space.md
 │   ├── restart-dns-dhcp.md
-│   └── troubleshoot-rdp.md
-│
-├── security/                            # Security & compliance
+│   ├── troubleshoot-rdp.md
+├── security/
 │   ├── enable-bitlocker.md
 │   ├── check-antivirus-status.md
 │   ├── phishing-reporting.md
-│   └── secure-password-policy.md
-│
-├── m365-intune/                         # Cloud support
+│   ├── secure-password-policy.md
+├── m365-intune/
 │   ├── reset-mfa.md
 │   ├── wipe-device-intune.md
 │   ├── enroll-device-intune.md
 │   ├── check-mailbox-size.md
-│   └── shared-mailbox-access.md
-│
-└── README.md                            # Overview of all SOPs
-'''
+│   ├── shared-mailbox-access.md
+└── README.md
+``
+
 ---
 
 ## 🎯 Purpose of This Repository
