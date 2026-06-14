@@ -4,8 +4,10 @@ This repository demonstrates real-world troubleshooting, documentation, and ITIL
 
 ---
 
+
 ## 📁 Repository Structure
 
+```
 ITSupportSOPs/
 ├── account-management/
 │   ├── reset-password.md
@@ -50,6 +52,7 @@ ITSupportSOPs/
 │   ├── shared-mailbox-access.md
 └── README.md
 
+```
 ---
 
 ## 🎯 Purpose of This Repository
